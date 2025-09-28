@@ -1,0 +1,201 @@
+Customer_ID,Age,Gender,Product_Category,Purchase_Amount,Purchase_Date,Payment_Mode
+1,56,Male,Clothing,5986,2024-01-01,Online Wallet
+2,46,Female,Clothing,8835,2024-01-02,Cash
+3,32,Female,Grocery,4991,2024-01-03,Bank Transfer
+4,25,Male,Clothing,11630,2024-01-04,Bank Transfer
+5,38,Female,Clothing,8151,2024-01-05,Bank Transfer
+6,56,Female,Clothing,1667,2024-01-06,Bank Transfer
+7,36,Female,Electronics,1562,2024-01-07,Bank Transfer
+8,40,Female,Electronics,19040,2024-01-08,Bank Transfer
+9,28,Male,Electronics,11674,2024-01-09,Credit Card
+10,28,Male,Grocery,5229,2024-01-10,Online Wallet
+11,41,Female,Sports,9848,2024-01-11,Bank Transfer
+12,53,Female,Clothing,5834,2024-01-12,Online Wallet
+13,57,Male,Clothing,9424,2024-01-13,Online Wallet
+14,41,Male,Grocery,4830,2024-01-14,Credit Card
+15,20,Female,Clothing,7301,2024-01-15,Bank Transfer
+16,39,Male,Electronics,5346,2024-01-16,Cash
+17,19,Female,Sports,7231,2024-01-17,Credit Card
+18,41,Female,Beauty,15868,2024-01-18,Cash
+19,47,Male,Clothing,17837,2024-01-19,Online Wallet
+20,55,Male,Electronics,3039,2024-01-20,Online Wallet
+21,19,Female,Beauty,7556,2024-01-21,Credit Card
+22,38,Female,Sports,12016,2024-01-22,Credit Card
+23,50,Male,Beauty,11993,2024-01-23,Cash
+24,29,Female,Electronics,2042,2024-01-24,Bank Transfer
+25,39,Male,Beauty,14464,2024-01-25,Cash
+26,42,Female,Grocery,18075,2024-01-26,Credit Card
+27,44,Male,Beauty,6813,2024-01-27,Cash
+28,59,Male,Clothing,19565,2024-01-28,Credit Card
+29,45,Male,Clothing,18424,2024-01-29,Cash
+30,33,Female,Grocery,14307,2024-01-30,Credit Card
+31,32,Female,Electronics,10080,2024-01-31,Credit Card
+32,20,Male,Clothing,18249,2024-02-01,Credit Card
+33,54,Female,Sports,9191,2024-02-02,Bank Transfer
+34,24,Male,Clothing,7994,2024-02-03,Cash
+35,38,Male,Clothing,4812,2024-02-04,Cash
+36,26,Female,Electronics,1824,2024-02-05,Cash
+37,56,Female,Beauty,3641,2024-02-06,Credit Card
+38,35,Male,Clothing,2310,2024-02-07,Cash
+39,21,Female,Grocery,7088,2024-02-08,Cash
+40,42,Female,Beauty,19807,2024-02-09,Credit Card
+41,31,Male,Sports,5801,2024-02-10,Online Wallet
+42,26,Male,Electronics,15985,2024-02-11,Credit Card
+43,43,Female,Sports,12214,2024-02-12,Cash
+44,19,Male,Beauty,5248,2024-02-13,Credit Card
+45,37,Male,Beauty,9935,2024-02-14,Online Wallet
+46,45,Female,Beauty,4209,2024-02-15,Credit Card
+47,24,Male,Sports,13616,2024-02-16,Cash
+48,25,Male,Beauty,10076,2024-02-17,Online Wallet
+49,52,Female,Sports,10650,2024-02-18,Bank Transfer
+50,31,Female,Beauty,19956,2024-02-19,Cash
+51,34,Male,Grocery,7030,2024-02-20,Online Wallet
+52,53,Male,Beauty,10688,2024-02-21,Online Wallet
+53,57,Female,Sports,15183,2024-02-22,Bank Transfer
+54,21,Female,Clothing,1004,2024-02-23,Credit Card
+55,19,Female,Beauty,1714,2024-02-24,Credit Card
+56,23,Female,Clothing,2031,2024-02-25,Cash
+57,59,Male,Grocery,1323,2024-02-26,Bank Transfer
+58,21,Female,Electronics,17812,2024-02-27,Credit Card
+59,46,Female,Grocery,5529,2024-02-28,Bank Transfer
+60,35,Male,Beauty,13928,2024-02-29,Credit Card
+61,43,Female,Clothing,17017,2024-03-01,Online Wallet
+62,51,Male,Clothing,2605,2024-03-02,Credit Card
+63,27,Female,Sports,4127,2024-03-03,Bank Transfer
+64,53,Female,Clothing,13472,2024-03-04,Online Wallet
+65,31,Female,Sports,2352,2024-03-05,Online Wallet
+66,48,Male,Electronics,5410,2024-03-06,Online Wallet
+67,32,Male,Beauty,11503,2024-03-07,Bank Transfer
+68,25,Female,Sports,14343,2024-03-08,Cash
+69,31,Male,Electronics,12204,2024-03-09,Cash
+70,40,Male,Clothing,16261,2024-03-10,Cash
+71,57,Male,Clothing,6690,2024-03-11,Bank Transfer
+72,38,Male,Electronics,18140,2024-03-12,Online Wallet
+73,33,Male,Clothing,6145,2024-03-13,Cash
+74,35,Male,Electronics,10088,2024-03-14,Bank Transfer
+75,41,Female,Sports,12329,2024-03-15,Cash
+76,43,Female,Sports,8553,2024-03-16,Credit Card
+77,42,Male,Electronics,3830,2024-03-17,Cash
+78,58,Female,Sports,19587,2024-03-18,Cash
+79,46,Female,Sports,9162,2024-03-19,Online Wallet
+80,32,Female,Sports,7614,2024-03-20,Bank Transfer
+81,18,Female,Grocery,13823,2024-03-21,Online Wallet
+82,42,Male,Beauty,1853,2024-03-22,Online Wallet
+83,24,Female,Clothing,11475,2024-03-23,Online Wallet
+84,26,Female,Grocery,11523,2024-03-24,Online Wallet
+85,41,Male,Sports,1167,2024-03-25,Online Wallet
+86,18,Male,Electronics,9837,2024-03-26,Cash
+87,25,Female,Sports,14159,2024-03-27,Online Wallet
+88,41,Female,Beauty,4219,2024-03-28,Online Wallet
+89,28,Female,Sports,19629,2024-03-29,Bank Transfer
+90,34,Female,Electronics,7983,2024-03-30,Credit Card
+91,25,Female,Beauty,1039,2024-03-31,Cash
+92,52,Female,Sports,5464,2024-04-01,Cash
+93,52,Male,Beauty,5335,2024-04-02,Cash
+94,50,Female,Clothing,6542,2024-04-03,Online Wallet
+95,22,Female,Clothing,15337,2024-04-04,Online Wallet
+96,59,Male,Sports,7812,2024-04-05,Online Wallet
+97,56,Male,Beauty,5820,2024-04-06,Bank Transfer
+98,58,Male,Electronics,13716,2024-04-07,Credit Card
+99,45,Male,Sports,3279,2024-04-08,Online Wallet
+100,24,Female,Clothing,17808,2024-04-09,Credit Card
+101,26,Female,Clothing,2081,2024-04-10,Bank Transfer
+102,25,Female,Sports,13177,2024-04-11,Cash
+103,29,Female,Beauty,6213,2024-04-12,Online Wallet
+104,51,Female,Clothing,17139,2024-04-13,Credit Card
+105,50,Female,Beauty,5304,2024-04-14,Credit Card
+106,40,Male,Clothing,18722,2024-04-15,Online Wallet
+107,41,Female,Clothing,10636,2024-04-16,Cash
+108,54,Male,Grocery,509,2024-04-17,Cash
+109,52,Male,Clothing,19755,2024-04-18,Cash
+110,57,Female,Electronics,5624,2024-04-19,Bank Transfer
+111,39,Male,Sports,1515,2024-04-20,Credit Card
+112,44,Female,Sports,2693,2024-04-21,Credit Card
+113,52,Male,Beauty,8915,2024-04-22,Credit Card
+114,18,Female,Clothing,14050,2024-04-23,Bank Transfer
+115,52,Male,Electronics,15012,2024-04-24,Credit Card
+116,54,Female,Beauty,4658,2024-04-25,Bank Transfer
+117,31,Female,Grocery,7470,2024-04-26,Cash
+118,20,Female,Beauty,7438,2024-04-27,Online Wallet
+119,18,Female,Beauty,14272,2024-04-28,Credit Card
+120,22,Female,Clothing,18517,2024-04-29,Credit Card
+121,43,Male,Grocery,10844,2024-04-30,Cash
+122,31,Male,Beauty,7766,2024-05-01,Online Wallet
+123,56,Male,Electronics,9202,2024-05-02,Bank Transfer
+124,44,Female,Electronics,884,2024-05-03,Online Wallet
+125,26,Male,Sports,904,2024-05-04,Cash
+126,32,Female,Grocery,8675,2024-05-05,Cash
+127,32,Female,Grocery,15658,2024-05-06,Online Wallet
+128,43,Male,Sports,13263,2024-05-07,Bank Transfer
+129,59,Male,Beauty,18884,2024-05-08,Bank Transfer
+130,30,Female,Grocery,10360,2024-05-09,Credit Card
+131,49,Male,Electronics,6489,2024-05-10,Bank Transfer
+132,56,Female,Electronics,15606,2024-05-11,Online Wallet
+133,49,Female,Clothing,18344,2024-05-12,Cash
+134,21,Female,Grocery,4136,2024-05-13,Credit Card
+135,47,Female,Beauty,11416,2024-05-14,Credit Card
+136,54,Female,Sports,5309,2024-05-15,Cash
+137,40,Male,Sports,13956,2024-05-16,Bank Transfer
+138,56,Male,Beauty,15944,2024-05-17,Cash
+139,32,Female,Clothing,6497,2024-05-18,Bank Transfer
+140,46,Female,Sports,2548,2024-05-19,Cash
+141,53,Male,Grocery,12838,2024-05-20,Online Wallet
+142,30,Male,Clothing,17600,2024-05-21,Bank Transfer
+143,49,Female,Grocery,5044,2024-05-22,Online Wallet
+144,24,Male,Electronics,5476,2024-05-23,Credit Card
+145,39,Female,Clothing,13275,2024-05-24,Cash
+146,45,Male,Sports,10515,2024-05-25,Credit Card
+147,19,Female,Clothing,3919,2024-05-26,Credit Card
+148,59,Male,Clothing,14930,2024-05-27,Credit Card
+149,23,Female,Clothing,7739,2024-05-28,Credit Card
+150,45,Male,Clothing,14989,2024-05-29,Cash
+151,45,Male,Grocery,17133,2024-05-30,Credit Card
+152,37,Female,Electronics,10857,2024-05-31,Cash
+153,47,Male,Beauty,17654,2024-06-01,Cash
+154,28,Female,Clothing,4863,2024-06-02,Online Wallet
+155,45,Male,Sports,10676,2024-06-03,Bank Transfer
+156,42,Female,Clothing,17961,2024-06-04,Bank Transfer
+157,56,Male,Sports,8927,2024-06-05,Cash
+158,50,Female,Grocery,9080,2024-06-06,Online Wallet
+159,18,Male,Sports,5358,2024-06-07,Cash
+160,44,Female,Beauty,10540,2024-06-08,Cash
+161,30,Male,Electronics,19698,2024-06-09,Cash
+162,58,Female,Sports,15754,2024-06-10,Online Wallet
+163,20,Female,Sports,11970,2024-06-11,Bank Transfer
+164,56,Female,Electronics,1752,2024-06-12,Online Wallet
+165,23,Male,Beauty,7496,2024-06-13,Credit Card
+166,25,Female,Clothing,12673,2024-06-14,Online Wallet
+167,44,Male,Sports,5173,2024-06-15,Online Wallet
+168,26,Female,Electronics,16281,2024-06-16,Online Wallet
+169,54,Male,Grocery,13551,2024-06-17,Online Wallet
+170,50,Female,Electronics,7381,2024-06-18,Bank Transfer
+171,59,Male,Grocery,7449,2024-06-19,Credit Card
+172,41,Male,Beauty,10021,2024-06-20,Bank Transfer
+173,32,Female,Clothing,8517,2024-06-21,Bank Transfer
+174,49,Male,Electronics,7441,2024-06-22,Online Wallet
+175,49,Male,Sports,10709,2024-06-23,Cash
+176,41,Female,Beauty,18215,2024-06-24,Cash
+177,58,Male,Electronics,10050,2024-06-25,Bank Transfer
+178,29,Male,Sports,5137,2024-06-26,Bank Transfer
+179,56,Male,Electronics,5354,2024-06-27,Online Wallet
+180,19,Female,Grocery,10820,2024-06-28,Bank Transfer
+181,20,Male,Electronics,19064,2024-06-29,Online Wallet
+182,54,Female,Electronics,5392,2024-06-30,Cash
+183,34,Male,Electronics,7543,2024-07-01,Cash
+184,19,Male,Beauty,17021,2024-07-02,Credit Card
+185,19,Male,Electronics,19716,2024-07-03,Cash
+186,45,Female,Sports,4664,2024-07-04,Bank Transfer
+187,40,Male,Grocery,8441,2024-07-05,Cash
+188,54,Male,Grocery,14888,2024-07-06,Online Wallet
+189,49,Female,Electronics,6069,2024-07-07,Cash
+190,50,Male,Beauty,4800,2024-07-08,Credit Card
+191,18,Female,Beauty,6769,2024-07-09,Cash
+192,36,Female,Sports,4318,2024-07-10,Online Wallet
+193,19,Male,Electronics,12515,2024-07-11,Online Wallet
+194,43,Female,Grocery,12734,2024-07-12,Bank Transfer
+195,49,Male,Beauty,18790,2024-07-13,Cash
+196,23,Female,Electronics,6754,2024-07-14,Online Wallet
+197,49,Female,Beauty,17644,2024-07-15,Credit Card
+198,21,Male,Beauty,7850,2024-07-16,Bank Transfer
+199,28,Female,Grocery,15683,2024-07-17,Credit Card
+200,34,Female,Clothing,6738,2024-07-18,Cash
